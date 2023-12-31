@@ -42,8 +42,9 @@ plt.scatter(x,y,color="Red")
 plt.plot(x,ypred,color="Blue")
 plt.show()
 ```
-
 ## Output:
+
+
 ![univariate](https://github.com/ARCHANAT1305/Univariate-Linear-Regression/assets/145975189/8972ec45-fe8e-4e9b-855d-d328a5354c97)
 
 ## Result:
